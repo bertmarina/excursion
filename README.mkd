@@ -1,0 +1,5 @@
+# Excursion Project
+## Creating a webpage to practice **elements positioning**
+  
+HTML and CSS used only, static page.  
+Based on a project available at codecademy.com  
